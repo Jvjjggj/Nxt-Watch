@@ -1,0 +1,74 @@
+.loader-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.below-container {
+  display: flex;
+}
+
+.videoo-conatiner {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.views-c-container {
+  display: flex;
+}
+.views-para {
+  margin-right: 5px;
+}
+
+.views-like-dislike-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.like-dislike-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.like-conatiner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dislike-conatiner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.save-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+.add {
+  color: #4f46e5 !important;
+}
+.horizontal {
+  border: 1px solid;
+  width: 100%;
+}
+.profile-img {
+  height: 50%;
+}
+
+.channel-container {
+  display: flex;
+}
+p {
+  margin: 0;
+}

@@ -1,0 +1,7 @@
+.below-container {
+  display: flex;
+}
+.saved-container {
+  display: flex;
+  flex-direction: column;
+}

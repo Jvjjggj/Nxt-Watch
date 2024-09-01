@@ -1,0 +1,15 @@
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.unorder-list-thumbnail {
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  list-style-type: none;
+  width: 100%;
+  margin-left: -30px;
+}
